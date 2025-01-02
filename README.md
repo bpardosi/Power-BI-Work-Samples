@@ -1,0 +1,3 @@
+# Power-BI-Work-Samples
+Power BI Work Samples
+https://app.powerbi.com/view?r=eyJrIjoiY2U0YTQyNDYtYTY3Zi00MDNkLTk1ZTItMjQ2ZmFlY2UyYTlmIiwidCI6ImRjOGI2M2Y2LWE1NmUtNDliMS04ZGU3LWQ2ODQyMjlhYTkwYyJ9
