@@ -1,3 +1,8 @@
 # Power-BI-Work-Samples
 Power BI Work Samples
+
+Retail
 https://app.powerbi.com/view?r=eyJrIjoiY2U0YTQyNDYtYTY3Zi00MDNkLTk1ZTItMjQ2ZmFlY2UyYTlmIiwidCI6ImRjOGI2M2Y2LWE1NmUtNDliMS04ZGU3LWQ2ODQyMjlhYTkwYyJ9
+
+Logistics
+https://app.powerbi.com/view?r=eyJrIjoiYTg1ZDZkNjYtMTAzNi00ZWIyLThhOTUtN2I0MjZjY2I0NjdkIiwidCI6ImRjOGI2M2Y2LWE1NmUtNDliMS04ZGU3LWQ2ODQyMjlhYTkwYyJ9
